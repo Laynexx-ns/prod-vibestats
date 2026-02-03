@@ -1,0 +1,6 @@
+.venv
+data
+models
+prodres_artifacts
+.idea
+.vscode
